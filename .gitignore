@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+data/triage.db*
+data/demo.db*
+data/lab.db*
+data/demo-archives/
+*.log
+!data/samples/*.log
+.runtime/

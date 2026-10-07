@@ -1,0 +1,92 @@
+[
+  {
+    "category": "authentication",
+    "path": "datasets/attack_techniques/T1078.002/account_login/windows-security.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1078.002/account_login/windows-security.log",
+    "prefix_sha256": "98285221f2ff857d501f34531dc70585911e44a2d94952b939ed7830bb5b51fe",
+    "read_bytes": 77538,
+    "events": 30
+  },
+  {
+    "category": "brute_force",
+    "path": "datasets/attack_techniques/T1110/esxi_ssh_brute_force/esxi_ssh_brute_force.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1110/esxi_ssh_brute_force/esxi_ssh_brute_force.log",
+    "prefix_sha256": "19f8cb2e6f07b840f59333038e4c9ebf358104e8088be0c85497c711dab78e22",
+    "read_bytes": 5255,
+    "events": 28
+  },
+  {
+    "category": "scan",
+    "path": "datasets/attack_techniques/T1046/nmap/horizontal.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1046/nmap/horizontal.log",
+    "prefix_sha256": "14550c40b75de0cc19a0a922fb0b183f04ddabb68c5defa3bb12c09bbd7215ad",
+    "read_bytes": 26924,
+    "events": 160
+  },
+  {
+    "category": "powershell",
+    "path": "datasets/attack_techniques/T1059.001/atomic_red_team/captcha_windows-sysmon.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1059.001/atomic_red_team/captcha_windows-sysmon.log",
+    "prefix_sha256": "2349326b9042ba212dc16a4764a2cd1fbfa318a792c5591594b77bbfd20ddc9e",
+    "read_bytes": 2153,
+    "events": 1
+  },
+  {
+    "category": "endpoint",
+    "path": "datasets/attack_techniques/T1070/atomic_red_team/windows-sysmon.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1070/atomic_red_team/windows-sysmon.log",
+    "prefix_sha256": "cf3a29fcdc8fc211c86f0c7d36f39445f51fe9231e8297fcdb4b95ddbe46c191",
+    "read_bytes": 1500000,
+    "events": 160
+  },
+  {
+    "category": "credential",
+    "path": "datasets/attack_techniques/T1003.001/atomic_red_team/createdump_windows-sysmon.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1003.001/atomic_red_team/createdump_windows-sysmon.log",
+    "prefix_sha256": "b898327b2b446ba63c13934d50c899eb4b2ee2c722a7c6c4a1dae6c515720001",
+    "read_bytes": 10636,
+    "events": 5
+  },
+  {
+    "category": "dns",
+    "path": "datasets/attack_techniques/T1071.004/long_dns_query/dns-sysmon.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1071.004/long_dns_query/dns-sysmon.log",
+    "prefix_sha256": "665351a29bf5545503fb572c808bf9ebf157e74ec6dcc8a098890551db6932ed",
+    "read_bytes": 14344,
+    "events": 10
+  },
+  {
+    "category": "cloud",
+    "path": "datasets/attack_techniques/T1580/aws_iam_excessive_list_command_usage/aws_iam_excessive_list_command_usage.json",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1580/aws_iam_excessive_list_command_usage/aws_iam_excessive_list_command_usage.json",
+    "prefix_sha256": "c2faf1cc6f60f192826dff8bdb9daba2e62ce086380d1dc8db4e5dee7df4f39c",
+    "read_bytes": 1500000,
+    "events": 160
+  },
+  {
+    "category": "privilege",
+    "path": "datasets/attack_techniques/T1068/drivers/xml7045_windows-system.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1068/drivers/xml7045_windows-system.log",
+    "prefix_sha256": "2caf5413bcc5327ec94744ece2e1bccd7f6415ab8e753ff1b021c98ac2095637",
+    "read_bytes": 20551,
+    "events": 22
+  },
+  {
+    "category": "web",
+    "path": "datasets/attack_techniques/T1190/citrix/nginx_kv_citrixbleed2_startwebview.log",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1190/citrix/nginx_kv_citrixbleed2_startwebview.log",
+    "prefix_sha256": "77b9eaf3df627c709253e37612d6d5238075c7609474e47c5bc83e9b378a19ec",
+    "read_bytes": 221661,
+    "events": 17
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "T1059.001",
+    "name": "PowerShell execution",
+    "filename": "T1059.001.log",
+    "repository": "splunk/attack_data",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "path": "datasets/attack_techniques/T1059.001/atomic_red_team/captcha_windows-sysmon.log",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1059.001/atomic_red_team/captcha_windows-sysmon.log",
+    "download_url": "https://media.githubusercontent.com/media/splunk/attack_data/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1059.001/atomic_red_team/captcha_windows-sysmon.log",
+    "sha256": "2349326b9042ba212dc16a4764a2cd1fbfa318a792c5591594b77bbfd20ddc9e",
+    "bytes": 2153
+  },
+  {
+    "id": "T1003.001",
+    "name": "Credential access",
+    "filename": "T1003.001.log",
+    "repository": "splunk/attack_data",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "path": "datasets/attack_techniques/T1003.001/atomic_red_team/createdump_windows-sysmon.log",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1003.001/atomic_red_team/createdump_windows-sysmon.log",
+    "download_url": "https://media.githubusercontent.com/media/splunk/attack_data/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1003.001/atomic_red_team/createdump_windows-sysmon.log",
+    "sha256": "b898327b2b446ba63c13934d50c899eb4b2ee2c722a7c6c4a1dae6c515720001",
+    "bytes": 10636
+  },
+  {
+    "id": "T1070",
+    "name": "Indicator removal",
+    "filename": "T1070.log",
+    "repository": "splunk/attack_data",
+    "revision": "4389fa7a4e74a7c083c0fbe448fa2c7c32378981",
+    "path": "datasets/attack_techniques/T1070/atomic_red_team/windows-sysmon.log",
+    "url": "https://github.com/splunk/attack_data/blob/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1070/atomic_red_team/windows-sysmon.log",
+    "download_url": "https://media.githubusercontent.com/media/splunk/attack_data/4389fa7a4e74a7c083c0fbe448fa2c7c32378981/datasets/attack_techniques/T1070/atomic_red_team/windows-sysmon.log",
+    "sha256": "c14f25805f90221a54de05387fcddfe9a0eec3aa4a7fd6a8b0dd0be3ddc65453",
+    "bytes": 11072863
+  }
+]
